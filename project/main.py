@@ -10,9 +10,9 @@ import cv2
 
 
 # IP address of the laptop
-HOST = "144.39.54.141"
+HOST = "10.9.0.18"
 # Path to the project directory in the laptop
-REMOTE_PATH = "gabe\\traffic\\5510Midterm\\project\\"
+REMOTE_PATH = "gabe\\traffic\\CS5510FinalProject\\project\\"
 CLASSFILE_NAME = "classfile.json"
 
 # Because the robot keeps veering right
