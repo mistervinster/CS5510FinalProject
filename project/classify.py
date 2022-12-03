@@ -18,7 +18,7 @@ while True:
         break
 
 # Get model ready to classify
-pathToModel = "../../5510ModelTrain/yolo5m6/modelVersion2.pt"
+pathToModel = "modelVersion2.pt"
 model = torch.hub.load('ultralytics/yolov5', 'custom', path=pathToModel)
 image = 1
 nextImage = f"data/image{image}.jpg"
