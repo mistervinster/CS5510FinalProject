@@ -2,7 +2,7 @@
 ## CS5510 Final Project by Sleep Deprived Coders
 
 ## Setup Instructions
-*Note: Setup is non-trivial. Try using a laptop and robot that are already set up, if possible.*
+*Note: Setup is non-trivial. If possible, use a laptop and robot that are already set up.*
 
 *Another note:  The laptop portion of this program currently works only with a Windows computer. It has been tested on Windows 11, although earlier versions may also work.*
 
