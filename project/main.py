@@ -9,7 +9,9 @@ import json
 import cv2
 
 
+# IP address of the laptop
 HOST = "144.39.54.141"
+# Path to the project directory in the laptop
 REMOTE_PATH = "gabe\\traffic\\5510Midterm\\project\\"
 CLASSFILE_NAME = "classfile.json"
 
