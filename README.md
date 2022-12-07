@@ -8,7 +8,7 @@
 
 1. Set up SSH between the laptop and the robot as demonstrated [here](https://www.youtube.com/watch?v=Wx7WPDnwcDg).
 1. Edit `~/.ssh/config` on the robot as needed.
-    - This is necessary because the username on the laptop, "direct lab," contains a space, which can cause unexpected results with SSH.
+    - This is necessary because the username on the laptop, "direct lab", contains a space, which can cause problems with SSH.
         - Yes, it took way too much work to figure this out.
 1. Clone or copy this repo onto the robot's root directory. The robot needs `project/main.py`, `project/YB_Pcb_Car.py`, `project/avoidance.py` and `project/data/`.
 1. Install 3rd party libraries onto the robot as necessary:
