@@ -4,7 +4,7 @@
 ## Setup Instructions
 *Note: Setup is non-trivial. Try using a laptop and robot that are already set up, if possible.*
 
-*Another note: this program currently works only with a Windows laptop. It has been tested on Windows 11, although earlier versions may also work.*
+*Another note:  The laptop portion of this program currently works only with a Windows laptop. It has been tested on Windows 11, although earlier versions may also work.*
 
 1. Set up SSH between the laptop and the robot as demonstrated [here](https://www.youtube.com/watch?v=Wx7WPDnwcDg).
 1. Edit `~/.ssh/config` on the robot as needed.
