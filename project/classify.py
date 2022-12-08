@@ -33,7 +33,7 @@ while True:
         results = model(resize)
         results.print()
         df = results.pandas().xyxy[0]
-        results.save(labels=True, save_dir='data/trial14/img')
+        results.save(labels=True, save_dir='data/classified/img')
         if df.shape[0] == 0:
             df = pd.DataFrame({
                 'name': ['nothing'],
