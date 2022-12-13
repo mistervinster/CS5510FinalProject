@@ -4,7 +4,7 @@
 `main.py`
 ```
 speed = 25 // Between 0 and 100
-dt = 0.1
+dt = 0.1 // All times are in seconds
 while true
     take picture
     signs = classify(picture)
@@ -13,13 +13,13 @@ while true
         sleep(1)
         drive(speed)
         sleep(dt)
-    elif speed limit in signs
-        speed = speedlimit['speed']
-        drive(speed)
-        sleep(dt)
-    elif crosswalk in signs
+    elif school in signs
         drive(20)
         sleep(1)
+    elif "speed limit 50" in signs
+        speed = 50
+        drive(speed)
+        sleep(dt)
     else
         drive(speed)
         sleep(dt)
