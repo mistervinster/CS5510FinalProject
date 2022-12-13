@@ -1,7 +1,7 @@
 # CS 5510 Final Project
 
-## Pseudocode
-`main.py`
+## `main.py` Pseudocode
+
 ```
 speed = 25 // Between 0 and 100
 dt = 0.1 // All times are in seconds
