@@ -33,3 +33,8 @@
 1. In a separate tereminal, `ssh` into the robot and run `python3 main.py`.
 1. To end the program, Ctrl-C on `main.py`, then on `classify.py`.
 1. Images taken by the robot are saved to `project/data/` on the laptop and on the robot. Images with bounding boxes and classifications are `project/data/classified/`.
+
+
+## Links to Report and Video
+Report: https://docs.google.com/document/d/1IBrOtn7q5k-dPKCCHpDdFXyT7Bcg1vtqkQpHgRrh0Ho/edit?usp=sharing
+Video: https://photos.app.goo.gl/B1FpUDQi5MjWjVG36
